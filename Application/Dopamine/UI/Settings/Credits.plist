@@ -67,6 +67,12 @@
 			<array>
 				<dict>
 					<key>name</key>
+					<string>Shekhar Charles Hussain</string>
+					<key>link</key>
+					<string>https://www.shekharcharles.com</string>
+				</dict>
+				<dict>
+					<key>name</key>
 					<string>opa334</string>
 					<key>link</key>
 					<string>https://twitter.com/opa334dev</string>
@@ -83,7 +89,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
-			<string>UI and Design</string>
+			<string>UI and Design Thanks to Shekhar Charles Hussain</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -94,21 +100,9 @@
 			<array>
 				<dict>
 					<key>name</key>
-					<string>tomt000</string>
+					<string>Shekhar Charles Hussain</string>
 					<key>link</key>
-					<string>https://twitter.com/tomt000</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>sourcelocation</string>
-					<key>link</key>
-					<string>https://twitter.com/sourceloc</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>xerus</string>
-					<key>link</key>
-					<string>https://twitter.com/xerusdesign</string>
+					<string>https://www.shekharcharles.com</string>
 				</dict>
 			</array>
 		</dict>
@@ -116,7 +110,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
-			<string>Credits</string>
+			<string>Credits Thanks to Shekhar Charles Hussain</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -127,160 +121,10 @@
 			<array>
 				<dict>
 					<key>name</key>
-					<string>Fugu15</string>
+					<string>Shekhar Charles Hussain</string>
 					<key>link</key>
-					<string>https://github.com/pinauten/Fugu15</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Fugu15_Rootful</string>
-					<key>link</key>
-					<string>https://github.com/pinauten/Fugu15_Rootful</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Linus Henze</string>
-					<key>link</key>
-					<string>https://twitter.com/LinusHenze</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>tihmstar</string>
-					<key>link</key>
-					<string>https://twitter.com/tihmstar</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>oct0xor</string>
-					<key>link</key>
-					<string>https://twitter.com/oct0xor</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>kucher1n</string>
-					<key>link</key>
-					<string>https://twitter.com/kucher1n</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>bzvr_</string>
-					<key>link</key>
-					<string>https://twitter.com/bzvr_</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Op. Triangulation</string>
-					<key>link</key>
-					<string>https://www.youtube.com/watch?v=1f6YyH62jFE</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>felix-pb</string>
-					<key>link</key>
-					<string>https://github.com/felix-pb</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>John Aakerblom</string>
-					<key>link</key>
-					<string>https://twitter.com/jaakerblom</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>potmdehex</string>
-					<key>link</key>
-					<string>https://github.com/potmdehex</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>_simo36</string>
-					<key>link</key>
-					<string>https://twitter.com/_simo36</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>0x7ff</string>
-					<key>link</key>
-					<string>https://github.com/0x7ff</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>évelyne</string>
-					<key>link</key>
-					<string>https://github.com/evelyneee</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Alfie</string>
-					<key>link</key>
-					<string>https://twitter.com/alfiecg_dev</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Clarity</string>
-					<key>link</key>
-					<string>https://github.com/TheRealClarity</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Dhinak G</string>
-					<key>link</key>
-					<string>https://twitter.com/dhinakg</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Capt Inc</string>
-					<key>link</key>
-					<string>https://github.com/captinc</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Nick Chan</string>
-					<key>link</key>
-					<string>https://github.com/asdfugil</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Sam Bingner</string>
-					<key>link</key>
-					<string>https://github.com/sbingner</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Procursus</string>
-					<key>link</key>
-					<string>https://procursus.social/@team</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Ylarod</string>
-					<key>link</key>
-					<string>https://github.com/Ylarod</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Shadow-</string>
-					<key>link</key>
-					<string>https://iosjb.top</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>roothideDev</string>
-					<key>link</key>
-					<string>https://twitter.com/roothideDev</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Amy While</string>
-					<key>link</key>
-					<string>https://github.com/elihwyma</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Adam Demasi</string>
-					<key>link</key>
-					<string>https://github.com/kirb</string>
-				</dict>
+					<string>https://www.shekharcharles.com</string>
+				</dict>				
 			</array>
 		</dict>
 		<dict>
